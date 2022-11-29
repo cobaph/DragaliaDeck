@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Tw Cen Condensed Bold;
+  src: url("/themes_custom/Dragalia Deck/fonts/tccb.ttf");
+  font-weight: bold;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: Tw Cen Condensed Bold;
+  src: url("/themes_custom/Dragalia Deck/fonts/tccb.ttf");
+  font-weight: bold;
+  font-stretch: condensed;
+}
+
+* {
+  font-family: Tw Cen Condensed Bold !important;
+  font-weight: bold;
+  font-stretch: condensed;
+}
